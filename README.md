@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anuj Reddy Aredla
 
-<!--
-**anujreddyaredla/anujreddyaredla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building reliable backend applications, APIs, and data-driven solutions.
 
-Here are some ideas to get you started:
+My primary engineering stack is **Java and Spring Boot**, with experience across REST APIs, microservices, relational databases, cloud platforms, and modern application development. I also work with **SQL, Python, and data analytics**, with an interest in turning complex data into useful applications and insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+
+**Backend Engineering**  
+Java • Spring Boot • Spring MVC • Spring Security • Hibernate/JPA • REST APIs • Microservices
+
+**Data & Databases**  
+SQL • PostgreSQL • Oracle • Python • Pandas • Data Analysis
+
+**Cloud & DevOps**  
+AWS • GCP • Docker • Kubernetes • GitHub Actions • CI/CD
+
+**Frontend**  
+React • JavaScript • HTML • CSS
+
+## Currently Exploring
+
+Building production-style applications that combine backend engineering, cloud technologies, data, and AI-assisted capabilities.
+
+---
+
+I'm gradually documenting selected projects and technical work here on GitHub.
